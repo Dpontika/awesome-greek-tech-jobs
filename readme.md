@@ -32,7 +32,7 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | **[European Dynamics](https://www.eurodyn.com/)** | IT Services | [Careers](https://www.eurodyn.com/careers/) | [LinkedIn](https://www.linkedin.com/company/european-dynamics) |
 | **[Evenly](https://evenly.care/)** | AI-powered Accessibility & Inclusion Technology | [Careers](https://evenly.care/contact-us-el.html) | [LinkedIn](https://www.linkedin.com/company/evenly-care) |
 | **[EY Greece](https://www.ey.com/en_gr)** | Consulting / Tech | [Careers](https://www.ey.com/en_gr/careers) | [LinkedIn](https://www.linkedin.com/company/eygreece) |
-| **[EY Greece (Ernst & Young)](https://www.ey.com/en_gr)** | Assurance, Tax, Consulting, Strategy & Transactions | [Careers](https://www.ey.com/en_gr/careers/job-search) | N/A |
+| **[EY Greece (Ernst & Young)](https://www.ey.com/en_gr)** | Assurance, Tax, Consulting, Strategy & Transactions | [Careers](https://www.ey.com/en_gr/careers/job-search) | [LinkedIn](https://www.linkedin.com/company/ernstandyoung) |
 | **[Ferryhopper](https://www.ferryhopper.com/)** | TravelTech | [Careers](https://startup.jobs/companies/ferryhopper) | [LinkedIn](https://www.linkedin.com/company/ferryhopper) |
 | **[Free Now](https://free-now.com/)** | Mobility / Apps | [Careers](https://free-now.com/careers/) | [LinkedIn](https://www.linkedin.com/company/free-now) |
 | **[Hack The Box](https://www.hackthebox.com/)** | Cybersecurity Training & Gamified Upskilling | [Careers](https://apply.workable.com/hack-the-box-ltd/) | [LinkedIn](https://www.linkedin.com/company/hackthebox) |
@@ -70,14 +70,14 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | **[Sitecore](https://www.sitecore.com/)** | CMS / MarTech | [Careers](https://www.sitecore.com/company/careers) | [LinkedIn](https://www.linkedin.com/company/sitecore) |
 | **[Skroutz](https://www.skroutz.gr/)** | E-commerce / Fintech | [Careers](https://apply.workable.com/skroutz/) | [LinkedIn](https://www.linkedin.com/company/skroutz-gr) |
 | **[Sophea AI (KIEFER Group)](https://home.sophea.ai/)** | AI & Robotics | N/A | [LinkedIn](https://www.linkedin.com/company/sophea-ai) |
-| **[Spitogatos (Real Web Group)](https://www.spitogatos.gr/)** | PropTech & Real Estate Marketplace | [Careers](https://apply.workable.com/spitogatos-gr/) | N/A |
-| **[Spotawheel](https://www.spotawheel.com/)** | Automotive & E-commerce Platform | [Careers](https://apply.workable.com/spotawheel/) | N/A |
-| **[SquareDev](https://squaredev.io/)** | Data & AI Agency | [Careers](https://www.careers-page.com/squaredev) | N/A |
+| **[Spitogatos (Real Web Group)](https://www.spitogatos.gr/)** | PropTech & Real Estate Marketplace | [Careers](https://apply.workable.com/spitogatos-gr/) | [LinkedIn](https://www.linkedin.com/company/spitogatos.gr) |
+| **[Spotawheel](https://www.spotawheel.com/)** | Automotive & E-commerce Platform | [Careers](https://apply.workable.com/spotawheel/) | [LinkedIn](https://www.linkedin.com/company/spotawheel) |
+| **[SquareDev](https://squaredev.io/)** | Data & AI Agency | [Careers](https://www.careers-page.com/squaredev) | [LinkedIn](https://www.linkedin.com/company/squaredev) |
 | **[Sthenos AI](https://sthenos.ai)** | Defense and Space Manufacturing / AI | N/A | [LinkedIn](https://www.linkedin.com/company/sthenos-ai) |
 | **[Sui Foundation](https://sui.io/)** | Blockchain & Web3 | [Careers](https://jobs.sui.io/jobs) | [LinkedIn](https://www.linkedin.com/company/sui-foundation) |
 | **[ThinkDigital](https://thinkdigitalgroup.net/)** | Digital Ads / Tech | [Careers](https://thinkdigitalgroup.net/careers/) | [LinkedIn](https://www.linkedin.com/company/thinkdigital) |
 | **[Trasys (part of NRB Group)](https://trasys.gr/)** | Information Technology & Services | [Careers](https://nrbcareers.com/) | [LinkedIn](https://www.linkedin.com/company/trasys) |
-| **[Travelmyth](https://www.travelmyth.com/)** | TravelTech | N/A | N/A |
+| **[Travelmyth](https://www.travelmyth.com/)** | TravelTech | N/A | [LinkedIn](https://www.linkedin.com/company/travelmyth) |
 | **[UBITECH](https://ubitech.eu/)** | Software House & Systems Integration | [Careers](https://ubitech.eu/careers/) | [LinkedIn](https://www.linkedin.com/company/ubitech) |
 | **[Uni Systems](https://www.unisystems.com/)** | IT Services & Solutions | [Careers](https://www.unisystems.com/careers) | [LinkedIn](https://www.linkedin.com/company/uni-systems) |
 | **[Uni Systems](https://www.unisystems.com/)** | Information and Communications Technology (ICT) Systems Integration | [Careers](https://www.unisystems.com/careers) | [LinkedIn](https://www.linkedin.com/company/uni-systems) |
